@@ -10,6 +10,8 @@ The data sources are:
 * Inside Airbnb
 * Idealista
 
+Previous pre-processing of the data from the City of Madrid is detailed ![here](https://github.com/diazcelsa/visualizations).
+
 The goal is to build a linear model to predict the number of internal migrations between districts over these years.
 
 It was observed that the factors that are correlated with the number of migrations (with a confidence of 95%) vary depending on the historical period. Therefore, the analysis was performed separately for the years before the crises, during the crisis and after the crisis.
