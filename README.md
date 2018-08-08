@@ -18,6 +18,8 @@ Despite of migrations being driving clearly by the real state in both periods (b
 
 Additionally, the migrations over time are also studied aggregating districts by the average net income level and their situation (centre of the city or in the suburbs).
 
+#### Relative migrations flow between 2004 and 2017
 ![Relative migrations flow between 2004 and 2017](img/relative_migrations.png?raw=true "Title")
 
+#### Change on the population considering migrations between 2003 and 2017
 ![Change on the population considering migrations between 2003 and 2017](img/absolute_migrations.png?raw=true "Title")
