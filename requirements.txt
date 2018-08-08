@@ -24,3 +24,4 @@ dash-renderer==0.12.1
 #pandas-datareader==0.6.0+30.g3c17058
 simplejson
 matplotlib
+lxml
