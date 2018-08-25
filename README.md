@@ -14,11 +14,11 @@ Previous pre-processing of the data from the City of Madrid is detailed ![here](
 
 The goal is to build a linear model to predict the number of internal migrations between districts over these years.
 
-It was observed that the factors that are correlated with the number of migrations (with a confidence of 95%) vary depending on the historical period. Therefore, the analysis was performed separately for the years before the crises, during the crisis and after the crisis.
-
-Despite of migrations being driving clearly by the real state in both periods (before and after the crisis), the focus clearly changed. This is without doubts correlated to the transition from the "brick" bubble to the renting bubble.
+It was observed that the factors that are correlated with the number of migrations (with a confidence of 95%) vary depending on the historical period. Therefore, the analysis was performed separately for the years before the crises, during the crisis and after the crisis..
 
 Additionally, the migrations over time are also studied aggregating districts by the average net income level and their situation (centre of the city or in the suburbs).
+
+If you want to read more about the results have a look to this ![blog post](http://www.ourdataourinsights.com/population_dynamics_crisis.html).
 
 #### Relative migrations flow between 2004 and 2017
 ![Relative migrations flow between 2004 and 2017](img/relative_migrations.png?raw=true "Title")
