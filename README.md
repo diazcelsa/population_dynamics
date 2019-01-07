@@ -10,7 +10,7 @@ The data sources are:
 * Inside Airbnb
 * Idealista
 
-Previous pre-processing of the data from the City of Madrid is detailed![here](https://github.com/diazcelsa/visualizations).
+Previous pre-processing of the data from the City of Madrid is detailed [here](https://github.com/diazcelsa/visualizations).
 
 The goal is to build a linear model to predict the number of internal migrations between districts over these years.
 
@@ -18,10 +18,11 @@ It was observed that the factors that are correlated with the number of migratio
 
 Additionally, the migrations over time are also studied aggregating districts by the average net income level and their situation (centre of the city or in the suburbs).
 
-If you want to read more about the results, have a look at this![blog post](http://www.ourdataourinsights.com/population_dynamics_crisis.html).
+If you want to read more about the results, have a look at this [blog post](http://www.ourdataourinsights.com/population_dynamics_crisis.html).
 
 #### Relative migrations flow between 2004 and 2017
 ![Relative migrations flow between 2004 and 2017](img/relative_migrations.png?raw=true "Title")
+
 
 #### Change on the population considering migrations between 2003 and 2017
 ![Change on the population considering migrations between 2003 and 2017](img/absolute_migrations.png?raw=true "Title")
