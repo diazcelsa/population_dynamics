@@ -22,7 +22,3 @@ If you want to read more about the results, have a look at this [blog post](http
 
 #### Relative migrations flow between 2004 and 2017
 ![Relative migrations flow between 2004 and 2017](img/relative_migrations.png?raw=true "Title")
-
-
-#### Change on the population considering migrations between 2003 and 2017
-![Change on the population considering migrations between 2003 and 2017](img/absolute_migrations.png?raw=true "Title")
